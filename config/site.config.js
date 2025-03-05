@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'reddit-alien',
+      name: 'Reddit',
       link: 'https://www.reddit.com/user/synczxc/',
     },
   ],
